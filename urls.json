@@ -1,0 +1,10 @@
+{
+  "default": {
+    "base_url": "https://anixartapp.com",
+    "api_url": "https://api-s.anixsekai.com/"
+  },
+  "ua": {
+    "base_url": "https://anixartapp.com",
+    "api_url": "https://api-s.anixsekai.com/"
+  }
+}
