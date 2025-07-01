@@ -1,10 +1,10 @@
 {
-  "default": {
+  "ru": {
     "base_url": "https://anixartapp.com",
     "api_url": "https://api-s.anixsekai.com/",
     "editor_url": "https://editor.anixsekai.com/"
   },
-  "ua": {
+  "default": {
     "base_url": "https://anixartapp.com",
     "api_url": "https://api-s.anixsekai.com/",
     "editor_url": "https://editor.anixsekai.com/"
