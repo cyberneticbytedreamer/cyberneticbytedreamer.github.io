@@ -1,12 +1,10 @@
 {
   "ru": {
-    "base_url": "https://anixartapp.com",
     "api_url": "https://api-s.anixsekai.com/",
-    "editor_url": "https://editor.anixsekai.com/"
+    "should_use_mirror_urls": false
   },
   "default": {
-    "base_url": "https://anixartapp.com",
-    "api_url": "https://api-s.anixsekai.com/",
-    "editor_url": "https://editor.anixsekai.com/"
+    "api_url": "https://api.anixart.tv/",
+    "should_use_mirror_urls": true
   }
 }
