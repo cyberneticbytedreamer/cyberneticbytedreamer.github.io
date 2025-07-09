@@ -4,7 +4,7 @@
     "should_use_mirror_urls": false
   },
   "default": {
-    "api_url": "https://api.anixart.tv/",
+    "api_url": "https://test/",
     "should_use_mirror_urls": true
   }
 }
